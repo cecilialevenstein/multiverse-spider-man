@@ -31,6 +31,7 @@
   justify-content: center;
 }
 
+
 .navigator::before {
   content: '';
   position: absolute;
@@ -40,6 +41,8 @@
   background-color: white;
   z-index: 0;
 }
+
+
 
 .navigator ul{
   z-index: 1;
@@ -55,3 +58,4 @@
   position: absolute;
   top: -20px;
 }
+
